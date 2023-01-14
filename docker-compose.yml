@@ -1,9 +1,5 @@
 version: '3'
 services:
-  # docker-js-test-app:
-  #   image: nemil28/docker-js-test-app:1.0
-  #   ports:
-  #     - 3000:3000
   mongodb:
     image: mongo
     ports:
