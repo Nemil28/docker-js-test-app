@@ -65,4 +65,6 @@ The dot "." at the end of the command denotes location of the Dockerfile.
     
 Link to the Docker repository with the application image
 
+Credits [TechwithNana](https://gitlab.com/nanuchi/techworld-js-docker-demo-app)
+
 [Docker Repository](https://hub.docker.com/r/nemil28/docker-js-test-app)
